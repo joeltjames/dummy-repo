@@ -1,0 +1,1 @@
+This is file 3. It was created to cause a merge conflict.
